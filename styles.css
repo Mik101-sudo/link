@@ -1035,7 +1035,7 @@ i{
 }
 .services-body{
     background-color: black;
-    background-image:url('/images/person-holding-shredded-paper-used-as-alternative-fuel.jpg') ;
+    background-image:url('images/person-holding-shredded-paper-used-as-alternative-fuel.jpg') ;
     background-position: center;
     background-repeat:no-repeat;
     background-size:cover;
@@ -1248,7 +1248,7 @@ i{
 }
 .mining-body{
     background-color: black;
-    background-image:url('/images/quary.jpg') ;
+    background-image:url('images/quary.jpg') ;
     background-position: center;
     background-repeat:no-repeat;
     background-size:cover;
